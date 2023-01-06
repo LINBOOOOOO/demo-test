@@ -11,4 +11,4 @@ git remote add origin https://github.com/LINBOOOOOO/demo-test.git
 git branch -M main
 git push -u origin main
 
-L大佬创建的Linux和git所以两者的命令都是差不少的。
+L大佬创建的Linux和git所以两者的命令都是差不duo的；
